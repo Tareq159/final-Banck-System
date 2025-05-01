@@ -1,0 +1,95 @@
+﻿  AdminManager.cpp
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(114,16): warning C4101: 'balance': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(110,14): warning C4101: 'found': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(112,13): warning C4101: 'id': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(109,13): warning C4101: 'recipientId': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(108,16): warning C4101: 'amount': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(124,16): warning C4101: 'balance': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(120,14): warning C4101: 'found': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(122,13): warning C4101: 'id': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(119,13): warning C4101: 'recipientId': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(118,16): warning C4101: 'amount': unreferenced local variable
+  (compiling source file 'AdminManager.cpp')
+  
+  Bank System.cpp
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(114,16): warning C4101: 'balance': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(110,14): warning C4101: 'found': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(112,13): warning C4101: 'id': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(109,13): warning C4101: 'recipientId': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(108,16): warning C4101: 'amount': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(124,16): warning C4101: 'balance': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(120,14): warning C4101: 'found': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(122,13): warning C4101: 'id': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(119,13): warning C4101: 'recipientId': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(118,16): warning C4101: 'amount': unreferenced local variable
+  (compiling source file 'Bank%20System.cpp')
+  
+  Screen.cpp
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(114,16): warning C4101: 'balance': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(110,14): warning C4101: 'found': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(112,13): warning C4101: 'id': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(109,13): warning C4101: 'recipientId': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\EmplooyeManager.h(108,16): warning C4101: 'amount': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(124,16): warning C4101: 'balance': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(120,14): warning C4101: 'found': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(122,13): warning C4101: 'id': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(119,13): warning C4101: 'recipientId': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+C:\Users\amd\amd1\Desktop\c++\Bank System\Bank System\AdminManager.h(118,16): warning C4101: 'amount': unreferenced local variable
+  (compiling source file 'Screen.cpp')
+  
+  Generating Code...
+  Bank System.vcxproj -> C:\Users\amd\amd1\Desktop\c++\Bank System\x64\Debug\Bank System.exe
